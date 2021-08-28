@@ -1,32 +1,3 @@
----
----
----
-
 # About
 
-working knowledge of data analysis with spreadsheets, Python, R and SQL
-
-## Section 1
-
-text
-
-### Section 1.1
-
-more text
-
-### Section 1.2
-
-even more text
-
-![](2020%20Nobel%20Prize%20in%20Chemistry_%20A%20Tool%20for%20Genome%20Editing%20(CRISPR-Cas9).png)
-
-------------------------------------------------------------------------
-
-| **Col1** | Col2 | Col3 | Col4 |
-|----------|------|------|------|
-| abcd     |      |      |      |
-|          |      |      |      |
-|          |      |      |      |
-|          |      |      |      |
-
-: Table
+I am an experienced and driven professional at the intersection of organization, information and technology with a demonstrable passion for the public good. I have a broad and in-depth background in information management, enterprise architecture and business intelligence: information policy, architecture, information analysis, design, project management, project portfolio management, application portfolio management, consulting at strategic, tactical and operational level and coaching of trainees. I have a deep interest in the use of data and data analysis in public administration. I have a broad working knowledge of the use of spreadsheets, Python, R and SQL for data analysis, dito with regard to the architecture, design and operation of dashboards and data warehouses and I have an affinity with geo information. I am analytically strong, goal- and result-oriented, I have a hands-on mentality, I can manage both subject matter and process and I value good working relationships.
