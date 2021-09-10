@@ -24,7 +24,7 @@ I am also an avid quantitative biology and data science enthusiast, with a bache
 
 ## Courses
 
-  * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, heden
+  * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, 2021
 * Training Adviseren en schrijven met impact, in-company training, Boertien, 2020
 * Cursus Management of Portfolios Foundation, Quint, 2020
 * Introduction to Julia, MOOC, Julia Academy, 2020
