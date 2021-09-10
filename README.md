@@ -58,3 +58,11 @@ I am also an avid quantitative biology and data science enthusiast, with a bache
 * Training adviesvaardigheden, Vergouwen Overduin, 2001
 * Opleiding Functioneel Ontwerpen, Capgemini, 2001
 * Cursus Database Administration Oracle 8, 2000, Oracle
+
+## Education
+
+* Post Academisch Onderwijs Informatica, Stichting PION, Amsterdam, succesvol doorlopen, 1999
+* WO, Biologie, Universiteit Utrecht, deeltijd, BSc, 1989-1995
+* HBO, Hogere Zeevaartschool Rotterdam, diploma HTS, 1984
+* Militaire dienst, School Reserve Officieren Infanterie, succesvol doorlopen, 1978
+* VWO, Odulphus Lyceum, diploma Atheneum B, 1977
