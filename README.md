@@ -21,3 +21,40 @@ I am also an avid quantitative biology and data science enthusiast, with a bache
 * __Data warehouse developer__, development of additions to data warehouse, data marts and ETL, data analysis with SQL, Business Intelligence Consultancy, KPN, 2002
 * __Web developer__, design, development and maintenance of various web applications, Internet Competence Centre, Softwarehuis, KPN, 2000 - 2002
 * __Database developer__, design, development and maintenance of various database applications, data analysis with SQL, Oracle Competence Centre, Softwarehuis, KPN, 1999 - 2000
+
+## Courses
+
+  * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, heden
+* Training Adviseren en schrijven met impact, in-company training, Boertien, 2020
+* Cursus Management of Portfolios Foundation, Quint, 2020
+* Introduction to Julia, MOOC, Julia Academy, 2020
+ * Analyzing and Visualizing Data with Microsoft PowerBI, MOOC, Microsoft via edX, 2019
+  * Introduction to Deep Learning and Tensorflow, MOOC, Udacity, 2019
+* Intermediate Python for Data Science, DataCamp, 2019
+* Data Science Professional Certificate Program: Productivity Tools, MOOC, Harvard University via edX, 2019
+* Data Science Professional Certificate Program: Probability, MOOC, Harvard University via edX, 2018
+* Data Science Professional Certificate Program: Visualization with R, MOOC, Harvard University via edX, 2018
+* Introduction to Python for Data Science, DataCamp, 2017
+* Cursus Agile Scrum Foundation, Quint, 2017
+* Data Science Professional Certificate Program: Introduction to R, MOOC, Harvard University via edX, 2017
+* Masterclass Business Intelligence & Analytics, CIBIT, 2017
+* Cursus ArchiMate Foundation & Practitioner, The Open Group, 2017
+* Seminar "Data Science & Big Data Analytics", TriData, 2017
+* Quantitative Biology Workshop, MOOC, Massachusetts Institute of Technology via edX, 2016 – 2017
+* Seminar "Het logisch datawarehouse", Rick van der Lans, 2016
+* Seminar "MBA in één dag", Ben Tiggelaar, 2016
+* Training Professioneel adviseren, PBLQ, 2016
+* Leergang project-, proces- en programmamanagement, PBLQ, 2015 -2016
+* Masterclass Cloud Computing onder Architectuur, CIBIT, 2015
+* Masterclass Financieel Management van IT, CIBIT, 2014
+* Training Praktische debatvaardigheden, PBLQ, 2013
+* Masterclass Business IT-Strategie & -Informatieplanning, CIBIT, 2013
+* Programma voor Verbinders, Informatiemanagement, HEC, 2009 -2010
+* Leergang Architectuur, Informatiearchitectuur, Novius Adviesgroep, 2007
+* Seminar "Relational modeling", 2004,  Oracle & C.J. Date
+* Cursus OLAP modeling met Cognos PowerPlay, 2003, Cognos
+* Cursus Dimensional modeling, 2003, Capgemini
+* Cursus Data warehouse design, 2003, Capgemini
+* Training adviesvaardigheden, Vergouwen Overduin, 2001
+* Opleiding Functioneel Ontwerpen, Capgemini, 2001
+* Cursus Database Administration Oracle 8, 2000, Oracle
