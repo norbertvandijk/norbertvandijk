@@ -10,7 +10,7 @@ I am also an avid computational biology and data science enthusiast, with a bach
 
 ## Working experience
 
-* __CIO-advisor__, advisor project portfolio management, introduction best practices for portfolio management, setting up community-of-practice, organizing and producing consistent and reproducible management information, introduction online dashboard, introduction supporting software for portfolio management, secretary "I-beraad BZK", coaching of data trainees, CIO & Information Management Directorate, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, since 2018
+* __CIO-advisor__, advisor data management, advisor project portfolio management, introduction best practices for portfolio management, setting up community-of-practice, organizing and producing consistent and reproducible management information, introduction online dashboard, introduction supporting software for portfolio management, secretary "I-beraad BZK", coaching of data trainees, CIO & Information Management Directorate, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, since 2018
 * __Strategic advisor__, information management, enterprise architecture, business intelligence, knowledge management, process architecture design, initiator CIO-office, coaching of data trainees, Staff Department, Logius, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2014 - 2018
 * __Enterprise architect__, introduction of Concern Architecture, Strategic information plan for business operations, co-initiator of the Architecture Committee, contribution to the initiation of the Center for Standards, Product Management Department, Logius, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2011 - 2014
 * __ICT-architect__, various contributions to project architectures, introduction Enterprise architecture, introduction Semantic MediaWiki, NORA user council representative, Architecture Department, GBO.Overheid, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2008 - 2011
@@ -24,7 +24,8 @@ I am also an avid computational biology and data science enthusiast, with a bach
 
 ## Courses
 
-  * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, 2021
+* Cursus DAMA DMBOK Data Management Fundamentals, Global Knowledge, 2022
+* Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, 2021
 * Training Adviseren en schrijven met impact, in-company training, Boertien, 2020
 * Cursus Management of Portfolios Foundation, Quint, 2020
 * Introduction to Julia, MOOC, Julia Academy, 2020
