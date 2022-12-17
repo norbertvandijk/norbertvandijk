@@ -4,7 +4,7 @@
 
 I am an experienced and driven professional at the intersection of organization, information and technology, with a demonstrable passion for the public good. I have a broad and in-depth background in information management, enterprise architecture and business intelligence: information policy, architecture, information analysis, design, development, project management, project portfolio management, application portfolio management, data management, consulting at strategic, tactical and operational level and coaching of trainees. I am analytically strong, goal- and result-oriented, I have a hands-on mentality, I can manage subject matter and process alike and I value good working relationships.
 
-I have a deep interest in the use of data, data analysis and evidence-based policy in public administration. I have a broad working knowledge of data management and the architecture, design and development of dashboards, dynamic reports and (virtual) data warehouses. I have an affinity with geo information.
+I have a deep interest in the use of data, data analysis and evidence-based policy in public administration. I have a broad working knowledge of data governance, data management and the architecture, design and development of dashboards, dynamic reports and (virtual) data warehouses. I have some affinity with geo information.
 
 I am also an avid computational biology and data science enthusiast, with a bachelor's degree in biology and a broad working knowledge of the use of Python, R and SQL for data analysis and data engineering.
 
