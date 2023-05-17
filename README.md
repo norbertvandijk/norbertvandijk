@@ -24,13 +24,14 @@ I am also an avid computational biology and data science enthusiast, with a bach
 
 ## Courses
 
+* Artificial Intelligence for Business and Government, NL AI Coalition, 2023
 * Cursus DAMA DMBOK Data Management Fundamentals, Global Knowledge, 2022
 * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, 2021
 * Training Adviseren en schrijven met impact, in-company training, Boertien, 2020
 * Cursus Management of Portfolios Foundation, Quint, 2020
 * Introduction to Julia, MOOC, Julia Academy, 2020
- * Analyzing and Visualizing Data with Microsoft PowerBI, MOOC, Microsoft via edX, 2019
-  * Introduction to Deep Learning and Tensorflow, MOOC, Udacity, 2019
+* Analyzing and Visualizing Data with Microsoft PowerBI, MOOC, Microsoft via edX, 2019
+* Introduction to Deep Learning and Tensorflow, MOOC, Udacity, 2019
 * Intermediate Python for Data Science, DataCamp, 2019
 * Data Science Professional Certificate Program: Productivity Tools, MOOC, Harvard University via edX, 2019
 * Data Science Professional Certificate Program: Probability, MOOC, Harvard University via edX, 2018
