@@ -2,15 +2,17 @@
 
 ## Profile
 
-I am an experienced and driven professional at the intersection of organization, information and technology, with a demonstrable passion for the public good. I have a broad and in-depth background in information management, enterprise architecture and business intelligence: information policy, architecture, information analysis, design, development, project management, project portfolio management, application portfolio management, data management, consulting at strategic, tactical and operational level and coaching of trainees. I am analytically strong, goal- and result-oriented, I have a hands-on mentality, I can manage subject matter and process alike and I value good working relationships.
+I am an experienced and driven professional at the intersection of organization, information and technology, with a demonstrable passion for the public good. I have a broad and in-depth background in information management, enterprise architecture and business intelligence: information policy, information architecture, information analysis, design, development, project management, project portfolio management, application portfolio management, consulting at strategic, tactical and operational levels and coaching of trainees. I am analytically strong, goal- and result-oriented, I have a hands-on mentality, I can manage subject matter and process alike and I foster good working relationships.
 
-I have a deep interest in the use of data, data analysis and evidence-based policy in public administration. I have a broad working knowledge of data governance, data management and the architecture, design and development of dashboards, dynamic reports and (virtual) data warehouses. I have some affinity with geo information.
+I have a deep interest in the use of data, data analysis and evidence-based policy in public administration. I have a broad working knowledge of data governance, data management and the architecture, design and development of dashboards, dynamic reports and (virtual) data warehouses. I have affinity with spatial data. 
 
-I am also an avid computational biology and data science enthusiast, with a bachelor's degree in biology and a broad working knowledge of the use of Python, R and SQL for data analysis and data engineering.
+I am also an avid computational biology, data science and artificial intelligence enthusiast, with a bachelor's degree in biology and a broad working knowledge of the use of Python, R and SQL for data analysis and data engineering.
+
+Last but not least, I am a FAIR data advocate and currently fellow of the GO FAIR Foundation.
 
 ## Working experience
 
-* __CIO-advisor__, advisor data management, advisor project portfolio management, introduction best practices for portfolio management, setting up community-of-practice, organizing and producing consistent and reproducible management information, introduction online dashboard, introduction supporting software for portfolio management, secretary "I-beraad BZK", coaching of data trainees, CIO & Information Management Directorate, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, since 2018
+* __CIO-advisor__, currently policy advisor data management and GO FAIR Foundation fellow, previously policy advisor project portfolio management, introduction best practices for portfolio management, setting up community-of-practice, organizing and producing consistent and reproducible management information, introduction online dashboard, introduction supporting software for portfolio management, secretary "I-beraad BZK", coaching of data trainees, CIO & Information Management Directorate, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, since 2018
 * __Strategic advisor__, information management, enterprise architecture, business intelligence, knowledge management, process architecture design, initiator CIO-office, coaching of data trainees, Staff Department, Logius, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2014 - 2018
 * __Enterprise architect__, introduction of Concern Architecture, Strategic information plan for business operations, co-initiator of the Architecture Committee, contribution to the initiation of the Center for Standards, Product Management Department, Logius, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2011 - 2014
 * __ICT-architect__, various contributions to project architectures, introduction Enterprise architecture, introduction Semantic MediaWiki, NORA user council representative, Architecture Department, GBO.Overheid, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2008 - 2011
@@ -24,6 +26,7 @@ I am also an avid computational biology and data science enthusiast, with a bach
 
 ## Courses
 
+* Prompt Engineering for Developers, DeepMind and OpenAI, 2023
 * Artificial Intelligence for Business and Government, NL AI Coalition, 2023
 * Cursus DAMA DMBOK Data Management Fundamentals, Global Knowledge, 2022
 * Exercising Leadership, Foundational Principles, MOOC, Harvard University via edX, 2021
